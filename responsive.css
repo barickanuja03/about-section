@@ -17,19 +17,20 @@
         overflow-x: hidden;
         width:100%;
         margin:0 !important;
+        padding:-2%;
     }
     .left-section {
 
        display:inline-block;
-       margin:0px;
        height:auto;
+       width: 100vw;
 
     }
     .logo-heading{
         margin-top: -50px;
     }
-    .right-paragraph{
-            margin-top:-170px;
+    .right-section{
+            margin:-180px 0px;
 
     }
 
