@@ -12,7 +12,6 @@ body, html {
 }
 
 .about-container {
-  margin-left: 18rem;
   margin-top: 5rem;
 }
 .about-container .left-section {
@@ -30,7 +29,6 @@ body, html {
   font-size: 5rem;
   color: white;
   background-color: black;
-  letter-spacing: 0.5rem;
 }
 .about-container .logo-heading .about-heading span {
   color: rgb(225, 173, 33);

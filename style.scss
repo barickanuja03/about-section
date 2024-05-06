@@ -14,7 +14,7 @@ body,html{
    font-size: 10px;
 }
  .about-container{
-  margin-left:18rem;
+//  margin-left:18rem;
   margin-top:5rem;
     .left-section{
         margin-left:20rem;
@@ -30,7 +30,6 @@ body,html{
         font-size: 5rem;
         color:white;
         background-color:black;
-        letter-spacing: .5rem;
         span{
             color:$Urobilin;
         }
@@ -68,11 +67,11 @@ body,html{
         }
     }
  }
- .right-section{
-    margin-top:19rem;
+
     .right-paragraph{
         font-size:2.5rem;
         color:$color;
+        margin-top:19rem;
     }
-}
+
 }
