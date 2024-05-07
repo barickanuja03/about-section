@@ -16,13 +16,12 @@
     .about-container{
         overflow-x: hidden;
         width:100%;
-        margin:0 !important;
-        padding:-2%;
+        height:100vh;
+       margin:0 !important;
     }
     .left-section {
 
        display:inline-block;
-       height:auto;
        width: 100vw;
 
     }
